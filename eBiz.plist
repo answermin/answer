@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.19.117.122:8002/MOBILE/app/eBiz.ipa</string>
+					<string>http://58.19.117.122:8002/MOBILE/eBiz.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hbunicom.eBiz</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上代维</string>
+				<string>易运营</string>
 			</dict>
 		</dict>
 	</array>
