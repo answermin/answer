@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hbunicom.eBiz</string>
+				<string>com.chinatelecom.hnChannelClient-IOS</string>
 				<key>bundle-version</key>
 				<string>2.1</string>
 				<key>kind</key>
