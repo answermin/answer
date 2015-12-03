@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chinatelecom.hnChannelClient-IOS</string>
+				<string>com.ztesoft.ebiz.telecom.beijing</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
