@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.47.111.50:7030/MOBILE/eBiz101.ipa</string>
+					<string>http://111.47.111.50:7030/MOBILE/eBiz.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztesoft.ebiz.telecom.beijing</string>
+				<string>com.ztesoft.ebiz.hunan</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
